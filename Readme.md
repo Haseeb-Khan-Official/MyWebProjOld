@@ -1,34 +1,42 @@
-# HTML & CSS Practice — Basic Version
+# HTML & CSS Practice
 
-This is my very first attempt at creating a complete webpage using HTML and CSS.  
-It includes plenty of beginner mistakes but was a great learning experience!
+A **two-version** learning journey — from my very first HTML & CSS webpage (full of beginner mistakes) to a more refined, upgraded version using modern CSS techniques.
 
 ---
 
-## About this Version
+## Project Structure
 
-- My **first ever** full webpage project.
-- Written with a lot of trial-and-error and mistakes.
-- Styled using **basic CSS**: paddings, margins, and simple layout properties.
+- **`v1-basic/`**
+
+  - My **first ever** complete webpage.
+  - Written with plenty of trial-and-error and beginner mistakes.
+  - Styled using only **basic CSS**: paddings, margins, and simple layouts.
+
+- **`v2-upgraded/`**
+  - An improved version of the same project.
+  - Introduces **CSS selectors**, **Flexbox**, **CSS Grid**, and a touch of **media queries** for responsiveness.
 
 ---
 
 ## Purpose
 
-- To practice the fundamentals of HTML and CSS.
-- To understand how to structure a webpage and apply basic styles.
+- Practice and improve my HTML & CSS skills.
+- Learn by building the same webpage twice — once as a beginner and again with more skills.
 
 ---
 
 ## Features
 
-- Simple and clean layout.
-- Basic CSS styling without advanced techniques or responsiveness.
+- **Version 1:** Simple static layout with basic styling.
+- **Version 2:**
+  - Modern layout techniques with Flexbox and Grid.
+  - Better use of CSS selectors.
+  - Basic responsive design via media queries.
 
 ---
 
 ## Lessons Learned
 
-- Importance of HTML structure for styling.
-- How to use margins and paddings effectively.
-- The patience required when learning web development for the first time.
+- How proper structure in HTML makes styling easier.
+- Why Flexbox and Grid are game-changers for layouts.
+- The importance of revisiting old code to improve it.

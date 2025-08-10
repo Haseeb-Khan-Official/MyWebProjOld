@@ -112,7 +112,7 @@ li {
 /* HOME */
 #Home {
   display: block;
-  background-image: url("images/home-bg.jpg");
+  background-image: url("../Images/home-bg.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -189,7 +189,7 @@ li {
 }
 #AboutCP {
   border: 3px ridge rgb(42, 43, 45);
-  background: url("images/about-bg.jpg");
+  background: url("../images/about-bg.jpg");
   /*margin-top: 0.28pt;
 margin-right: -8px;*/
   margin: 2px;
@@ -213,7 +213,7 @@ color: #ff5e00;
 }
 #AboutEvent {
   border: 3px ridge rgb(42, 43, 45);
-  background: url("images/about-bg.jpg");
+  background: url("../images/about-bg.jpg");
   margin: 2px;
   right: -0.5%;
   height: 35vh;
@@ -302,7 +302,7 @@ marquee {
   margin-left: 0%;
   background: #2a2b2d;
   border: 6px groove #505152;
-  background-image: url("images/connectpakcon.png");
+  background-image: url("../images/connectpakcon.png");
   background-size: contain;
 }
 
@@ -345,7 +345,7 @@ marquee {
   margin-bottom: -24px;
   padding: 0px;
   opacity: 0.6;
-  background-image: url("USa lahore2.jpg");
+  background-image: url("./Images/USa\ lahore2.jpg");
   border: 4px groove #505152;
   background-size: cover;
 }

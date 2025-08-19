@@ -3,6 +3,10 @@
 This is my very first attempt at creating a complete webpage using HTML and CSS.  
 It includes plenty of beginner mistakes but was a great learning experience!
 
+## Live Demo
+
+[Live Demo 1](https://haseeb-khan-official.github.io/MyWebProjOld/) | [Repo](https://github.com/Haseeb-Khan-Official/MyWebProjOld)
+
 ---
 
 ## 📂 About this Version
@@ -26,12 +30,5 @@ It includes plenty of beginner mistakes but was a great learning experience!
 - Basic CSS styling without advanced techniques or responsiveness.
 
 ---
-
-[Live Demo 1](https://haseeb-khan-official.github.io/MyWebProjOld/) | [Repo](https://github.com/Haseeb-Khan-Official/MyWebProjOld)
-
----
-## 💡 Lessons Learned
-
-- Importance of HTML structure for styling.
 - How to use margins and paddings effectively.
 - The patience required when learning web development for the first time.

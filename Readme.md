@@ -27,6 +27,9 @@ It includes plenty of beginner mistakes but was a great learning experience!
 
 ---
 
+[Live Demo 1](https://haseeb-khan-official.github.io/MyWebProjOld/) | [Repo](https://github.com/Haseeb-Khan-Official/MyWebProjOld)
+
+---
 ## 💡 Lessons Learned
 
 - Importance of HTML structure for styling.
